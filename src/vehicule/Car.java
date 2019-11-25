@@ -1,7 +1,7 @@
 package vehicule;
 
 public class Car {	
-
+	int speed;
 //public void fulThrottle() {
 //System.out.println("the car is going as fastas it can!");}	
 
