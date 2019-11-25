@@ -2,6 +2,7 @@ package vehicule;
 
 public class Car {	
 	int speed;
+	String conducteur;
 //public void fulThrottle() {
 //System.out.println("the car is going as fastas it can!");}	
 

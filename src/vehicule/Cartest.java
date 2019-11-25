@@ -7,5 +7,6 @@ public class Cartest {
 Car myCar=new Car();
 //myCar.fulThrottle();
 myCar.speed = 200;
+myCar.conducteur = "toto";
 }
 }
